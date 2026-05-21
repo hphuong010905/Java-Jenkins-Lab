@@ -1,4 +1,4 @@
-name: Java CI with Mavenon
+name: Java CI with Maven
 on:
 push:
   branches: [ "main" ] # Chạy mỗi khi push code lên branch main
